@@ -22,8 +22,6 @@ This app provides a clean interface for users to input loan details, calculate e
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
-- **Axios** (for API calls, if applicable)
-- **React Router** (for navigation)
 
 ---
  Demo
