@@ -25,4 +25,4 @@ This app provides a clean interface for users to input loan details, calculate e
 
 ---
  Demo
- https://transcendent-llama-7dd9c4.netlify.app/
+https://velvety-axolotl-464c45.netlify.app/
